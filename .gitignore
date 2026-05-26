@@ -1,0 +1,48 @@
+# Python build artefacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Test + type-check artefacts
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+.dmypy.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local notes / scratch
+SCRATCH.md
+TODO.local.md
+*.local.md
+
+# Generated audit logs from local runs (these can contain timestamps
+# that vary across machines; treat as build artefacts not source).
+audit.json
+*.audit.json

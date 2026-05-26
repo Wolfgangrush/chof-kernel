@@ -1,0 +1,53 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "chof-kernel"
+version = "0.1.0-alpha"
+description = "Embedded human-oversight kernel for autonomous systems — Python reference implementation of the CHOF-Kernel tactical safety governor. Production deployments use the C++/Rust port (forthcoming)."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "Apache-2.0" }
+authors = [
+  { name = "Rushikesh Ravindra Mahajan", email = "advrushikeshravindramahajan@gmail.com" },
+]
+keywords = [
+  "autonomous-systems",
+  "safety-governor",
+  "embedded-oversight",
+  "meaningful-human-control",
+  "chof",
+  "article-36",
+]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: Apache Software License",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Topic :: Scientific/Engineering :: Information Analysis",
+  "Topic :: Security :: Cryptography",
+]
+dependencies = [
+  "chof-calc>=0.1.0a0",
+  "cryptography>=42",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[project.scripts]
+chof-kernel = "chof_kernel.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/Wolfgangrush/chof-kernel"
+Documentation = "https://chof-kernel.readthedocs.io"
+Repository = "https://github.com/Wolfgangrush/chof-kernel"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/chof_kernel"]
