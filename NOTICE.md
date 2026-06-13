@@ -37,8 +37,8 @@ which mirrors the algorithms here but adds:
 
 This is the author's **academic** identity. The author also practises as
 an advocate enrolled with the Bar Council of Maharashtra and Goa, Sangli,
-India, and appears principally before the Bombay High Court, Nagpur Bench.
-The publishing handle for this open-source work is **Wolfgang Rush**, an
+India, and appears principally before the High Courts of India.
+The publishing handle for this open-source work is **wolfgang_rush**, an
 open-source brand under which the author releases legal-technology
 software. The real-identity accountability declared in this NOTICE attaches
 to the author personally and is not displaced by the use of a publishing

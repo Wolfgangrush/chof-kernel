@@ -849,7 +849,7 @@ Apache License 2.0. See [`LICENSE`](LICENSE) for the full text and
 
 - Academic-identity declaration
 - Queen's University Belfast attribution
-- Wolfgang Rush publishing-handle disclosure
+- wolfgang_rush publishing-handle disclosure
 - Bar Council of India Rule 36 firewall
 - Dual-use disclosure (with export-control pointers: ECJU / BIS / Wassenaar)
 - Cryptographic notice (Ed25519 + SHA-256, no rolled crypto)
@@ -861,10 +861,9 @@ Apache License 2.0. See [`LICENSE`](LICENSE) for the full text and
 ## Author
 
 **Rushikesh Ravindra Mahajan** — Advocate, enrolled with the Bar Council of
-Maharashtra and Goa, Sangli, India. Practising before the Bombay High Court,
-Nagpur Bench. LLM Law and Technology, Queen's University Belfast (2024).
+Maharashtra and Goa, Sangli, India. Practising before the High Courts of India. LLM Law and Technology, Queen's University Belfast (2024).
 
-Published as **Wolfgang Rush**, an open-source brand for legal-technology
+Published as **wolfgang_rush**, an open-source brand for legal-technology
 software. See [`NOTICE.md`](NOTICE.md) for the relationship between the two
 identities.
 
