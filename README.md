@@ -860,8 +860,7 @@ Apache License 2.0. See [`LICENSE`](LICENSE) for the full text and
 
 ## Author
 
-**Rushikesh Ravindra Mahajan** — Advocate, enrolled with the Bar Council of
-Maharashtra and Goa, Sangli, India. Practising before the High Courts of India. LLM Law and Technology, Queen's University Belfast (2024).
+**Rushikesh Ravindra Mahajan** — LLM Law and Technology, Queen's University Belfast (2024).
 
 Published as **wolfgang_rush**, an open-source brand for legal-technology
 software. See [`NOTICE.md`](NOTICE.md) for the relationship between the two

@@ -19,7 +19,7 @@ This kernel is the Tier-2 companion to the Tier-1 assessment tool
 > Mahajan, R. R. (2024). *What Balance Between Human Oversight and Machine
 > Autonomy Is Necessary To Uphold Ethical Standards in Warfare, and How
 > Can This Balance Be Legally Codified and Enforced.* LLM Dissertation,
-> Queen's University Belfast, School of Law. Supervisor: Dr Eugene Lim.
+> Queen's University Belfast, School of Law.
 
 This Python implementation is the REFERENCE implementation of the kernel's
 state machine + audit-log format. It is NOT intended for production
@@ -35,10 +35,7 @@ which mirrors the algorithms here but adds:
 
 ## 2. Author Identity Declaration
 
-This is the author's **academic** identity. The author also practises as
-an advocate enrolled with the Bar Council of Maharashtra and Goa, Sangli,
-India, and appears principally before the High Courts of India.
-The publishing handle for this open-source work is **wolfgang_rush**, an
+This is the author's **academic** identity. The publishing handle for this open-source work is **wolfgang_rush**, an
 open-source brand under which the author releases legal-technology
 software. The real-identity accountability declared in this NOTICE attaches
 to the author personally and is not displaced by the use of a publishing
