@@ -11,19 +11,6 @@
 </p>
 
 
-<div align="center">
-  <img src="docs/banner.png" width="820"/>
-  <p><strong>Embedded human-oversight kernel for autonomous systems</strong></p>
-  <p>Visit the live site: <a href="https://wolfgangrush.github.io">wolfgangrush.github.io</a></p>
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"/>
-  <img src="https://img.shields.io/badge/python-3.11+-blue.svg" alt="Python 3.11+"/>
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome"/>
-</p>
-
-
 # chof-kernel
 
 > **Embedded human-oversight kernel for autonomous systems.**
@@ -904,3 +891,4 @@ that motivates the black-box modality cap.
 
 **Companion repo:** [`chof-calc`](https://github.com/Wolfgangrush/chof-calc)
 — the Tier-1 policy assessment tool.
+
